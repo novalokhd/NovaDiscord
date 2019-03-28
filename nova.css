@@ -1038,8 +1038,11 @@ img.image-3XsqGc {
   transform: scale(0.8);
 }
 /* CHANNEL NAME COLOR */
-.channelName-3stJzi
-  color: #ff6600;!important
+.channelName-3stJzi, .titleText-3X-zRE {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #ff6600!important;
 }
 
 /* Header of channel */
