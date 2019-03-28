@@ -1156,7 +1156,7 @@ img.image-3XsqGc {
 }
 .theme-dark .members-1998pB::before {
   content: "";
-  background-image: url(https://github.com/KorbsEditor/Dream-Frame/blob/master/resources/VersionNumber.png?raw=true) !important;
+  background-image: url(https://raw.githubusercontent.com/novalokhd/NovaDiscord/master/images/VersionNumber.png) !important;
   width: 180px;
   height: 30px;
   position: fixed;
