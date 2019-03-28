@@ -2076,6 +2076,11 @@ div#bd-customcss-detach-controls-button {
   border-right-color: rgba(114, 137, 218, 0);
   top: 6.5% !important;
 }
+
+/* Divider of New Messages */
+.theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI {
+    color: #ff6600;
+}
 /* Members Count */
 .theme-dark #MemberCount {
   background: transparent;
