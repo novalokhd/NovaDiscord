@@ -8,7 +8,7 @@
 /* Background Boot Up BBU */
 @keyframes bbu {
 0% {
-  background-image: var(--custombackground);
+  background-image: https://i.imgur.com/wN44Tkg.jpg;
   opacity: 0.1;
   filter: blur(10px);
   background-repeat: var(--bgrepeat);
@@ -21,7 +21,7 @@
   height: 100%;
 }
 100% {
-  background-image: var(--custombackground);
+  background-image: https://i.imgur.com/wN44Tkg.jpg;
   opacity: var(--opacitybg);
   filter: blur(var(--blur));
   background-repeat: var(--bgrepeat);
@@ -59,7 +59,7 @@ background: transparent !important;
   animation: 5s bbu ease-in-out;
 }
 .backdrop-1wrmKB {
-  background-image: var(--custombackground);
+  background-image: https://i.imgur.com/wN44Tkg.jpg;
   opacity: var(--opacityDiscord) !important;
   filter: blur(var(--blur)) brightness(var(--opacitybg));
   background-repeat: var(--bgrepeat);
@@ -467,9 +467,9 @@ width: 99.5%;
   color: transparent !important;
 }
 .homeIcon-tEMBK1 {
-  background-image: var(--homeicon);
+  background-image: https://cdn.discordapp.com/attachments/463532696820383754/489649105006493697/TheDWinkyFace.png;
   background-repeat: no-repeat;
-  background-size: var(--homeiconsize);
+  background-size: 45px;;
   background-position: center;
 }
 /* Forcing Servers to be round entire time */
