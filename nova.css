@@ -1037,7 +1037,10 @@ border-radius: 50px;
 img.image-3XsqGc {
   transform: scale(0.8);
 }
-
+/* CHANNEL NAME COLOR */
+.channelName-3stJzi
+  color: #ff6600;!important
+}
 
 /* Header of channel */
 .theme-dark .topic-2QX7LI:before {
