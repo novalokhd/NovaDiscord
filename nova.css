@@ -467,9 +467,9 @@ width: 99.5%;
   color: transparent !important;
 }
 .homeIcon-tEMBK1 {
-  background-image: https://cdn.discordapp.com/attachments/463532696820383754/489649105006493697/TheDWinkyFace.png!important;
+  background-image: var(--homeIcon)!important;
   background-repeat: no-repeat;
-  background-size: 45px;
+  background-size: var(--homeiconsize)!important;
   background-position: center;
 }
 /* Forcing Servers to be round entire time */
