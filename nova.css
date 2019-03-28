@@ -467,9 +467,9 @@ width: 99.5%;
   color: transparent !important;
 }
 .homeIcon-tEMBK1 {
-  background-image: var(--homeIcon)!important;
+  background-image: var(--homeicon);
   background-repeat: no-repeat;
-  background-size: var(--homeiconsize)!important;
+  background-size: var(--homeiconsize);
   background-position: center;
 }
 /* Forcing Servers to be round entire time */
