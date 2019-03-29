@@ -2229,5 +2229,9 @@ textarea.textArea-2Spzkt.da-textArea.textAreaForm-18s4EO.textArea-2Spzkt.da-text
 }
 
 .theme-dark .membersGroup-v9BXpm {
-    color: #ff6600;
+    color: #ff6600;!important
+}
+
+.theme-dark .headerNormal-T_seeN {
+    background-color: #FF6600;
 }
